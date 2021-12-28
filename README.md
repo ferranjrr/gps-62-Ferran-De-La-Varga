@@ -14,13 +14,13 @@ Estructura del fitxer:
 
 1r - Es determina la versió de Python a utilitzar.
 
-2n - Instala els requisits definits al fitxer requirements.txt (en aquest projecte és buit).
+2n - Instala els requisits definits al fitxer `requirements.txt` (en aquest projecte és buit).
 
 3r - Complia el projecte, si dona errors es para.
 
 4t - Executa el projecte, si dona errors es para.
 
-5è - Executa els tests definits al fitxer test.py, si un test no passa s'atura.
+5è - Executa els tests definits al fitxer `test.py`, si un test no passa s'atura.
 
 6è - Executa el coverage i es mostra la quantitat de tests passats i els ignorats.
 
