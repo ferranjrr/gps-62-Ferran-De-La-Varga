@@ -8,7 +8,7 @@ Es necessita un compte UPC per visualitzar-ho.
 Aquest vídeo no mostra el "coverage" ja que s'ha afegit posteriorment. Amb el coverage afegit també complia i s'executa correctament.
 
 ## Explicació fitxer
-El fitxer python-app.yml ubicat al directori '.github/workflows' permet realitzar integració contínua; el fitxer complia el projecte i passa els tests.
+El fitxer `python-app.yml` ubicat al directori `.github/workflows` permet realitzar integració contínua; el fitxer complia el projecte i passa els tests.
 
 Estructura del fitxer:
 
