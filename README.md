@@ -1,5 +1,7 @@
 # Pràctica CI - Ferran De La Varga Antoja
 
+Petita pràctica de Gestió de Projectes de Software ([GPS](https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/GPS))
+
 ## Vídeo
 Link del vídeo conforme s'executa i que tot funciona:  https://drive.google.com/open?id=1PyDvJxk5Fyq1QRTrfThvhhtw-1kxg9Bc&authuser=ferran.de.la.varga%40estudiantat.upc.edu&usp=drive_fs
 
